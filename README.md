@@ -12,6 +12,7 @@ bootstrap to run correctly.
 ##### For the social media icons I have used the font-awesome stylesheet.
 
 
-## Link to landing page- 
+## Link to landing page
 
 ###### https://captainrex17.github.io/dipeshportfolio/indexd.html
+###### You can browse all of the site through this page.
