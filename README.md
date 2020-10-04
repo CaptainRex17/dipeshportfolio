@@ -14,5 +14,5 @@ bootstrap to run correctly.
 
 ## Link to landing page
 
-###### https://captainrex17.github.io/dipeshportfolio/indexd.html
-###### You can browse all of the site through this page.
+##### https://captainrex17.github.io/dipeshportfolio/indexd.html
+##### You can browse all of the site through this page.
