@@ -10,5 +10,6 @@ Bootstrap is mainly used for the navigation bar and the footer in this code.
 I had to include Javascript and Jquery because those are requirements for 
 bootstrap to run correctly.
 
+##### For arranging the images and paragraphs, I have used the div element.
 
-##### For the social media icons I include the used font-awesome stylesheet.
+##### For the social media icons I have used the font-awesome stylesheet.
