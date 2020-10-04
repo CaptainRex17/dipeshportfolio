@@ -13,3 +13,5 @@ bootstrap to run correctly.
 ##### For arranging the images and paragraphs, I have used the div element.
 
 ##### For the social media icons I have used the font-awesome stylesheet.
+
+Here is the link to the landing page of my profile- https://captainrex17.github.io/dipeshportfolio/indexd.html
