@@ -6,6 +6,7 @@ browser that the file is an html file.
 
 ## Bootstrap 
 
+
 Bootstrap is mainly used for the navigation bar and the footer in this code.
 I had to include Javascript and Jquery because those are requirements for 
 bootstrap to run correctly.
@@ -13,7 +14,6 @@ bootstrap to run correctly.
 ##### For arranging the images and paragraphs, I have used the div element.
 
 ##### For the social media icons I have used the font-awesome stylesheet.
-
 
 
 ###### Here is the link to the landing page of my profile- https://captainrex17.github.io/dipeshportfolio/indexd.html
